@@ -1,0 +1,20 @@
+2 - carotte bagel/nid
+160g de carotte rapé, faire des rond
+un oeuf au milieu
+soupoudrer de 80g de mozza seche rapé et 60g de cheddar mature rapé (pour les deux, donc 40g mozza/30g cheddar par nid)
+ajouter du sel et du poivre par dessus
+un filet d'huile d'olive sur les nid de carotte [optionel]
+
+6-7 min a 180C
+
+a peut pres 320Kcal par bagel/niz et 5g de carbs par nid
+
+food content : 
+  - CAROTTE_CRUE -> 160g consumed (44.19 Kcal), carbs: 9.17, lipid: 0.48, prot: 0.80
+  - OEUF -> 100g consumed (141.70 Kcal), carbs: 0.90, lipid: 10.10, prot: 11.80
+  - MOZZA_SECHE_CARREFOUR -> 80g consumed (205.92 Kcal), carbs: 1.28, lipid: 15.20, prot: 16.00
+  - CHEDDAR_RAPE_WYKES -> 60g consumed (246.06 Kcal), carbs: 0.60, lipid: 20.46, prot: 14.88
+for this meal : carbs: 11.95g, lipid: 46.24g, prot: 43.48g
+meal kcal analysis -> carbs: 47.79 Kcal, lipid: 416.16 Kcal, prot: 173.92 Kcal
+total caloric value : 637.87 Kcal
+total carbs in this meal : 11.95g
